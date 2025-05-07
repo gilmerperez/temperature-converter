@@ -30,8 +30,7 @@ form {
   width: 100%;
   margin: 0 auto;
   padding: 1.5rem;
-  max-width: 850px;
-  max-width: 1200px;
+  max-width: 500px;
   border-radius: 12px;
   background-color: white;
   box-shadow: 8px 8px 5px hsla(0, 0%, 0%, 0.3);
@@ -99,6 +98,11 @@ button:hover {
 }
 
 @media (max-width: 480px) {
+  form {
+    margin: 1rem;
+    padding: 1rem;
+  }
+
   h1 {
     margin: 0.25rem;
     font-size: 2rem;
