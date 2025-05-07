@@ -42,8 +42,9 @@ h1 {
 }
 
 #textBox {
-  margin: 1rem;
-  max-width: 25%;
+  width: 100%;
+  margin: 1rem auto;
+  max-width: 100%;
   padding: 0.5rem;
   font-size: 2rem;
   text-align: center;
@@ -110,12 +111,15 @@ button:hover {
   }
 
   #textBox {
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto;
     font-size: 1.5rem;
   }
 
   label {
-    font-size: 1.25rem;
     margin: 0;
+    font-size: 1.25rem;
   }
 
   button {
