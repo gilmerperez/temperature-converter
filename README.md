@@ -57,4 +57,4 @@ The following image shows the web application's appearance:
 
 ## Deployed Application
 
-[Temperature COnverter](https://gilmerperez.github.io/temperature-converter/)
+[Temperature Converter](https://gilmerperez.github.io/temperature-converter/)
